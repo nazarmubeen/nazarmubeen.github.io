@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: let's talk about something serious
 ---
 
 My name is Mohd Nazar Mubeen. 
