@@ -5,14 +5,13 @@ subtitle: Resume
 ---
 
 
- Mohd Nazar Mubeen	9989646600
+Mohd Nazar Mubeen	9989646600
 nazar.integral@gmail.com
 https://github.com/nazarmubeen
 https://www.linkedin.com/in/mohdnazarmubeen/
 
 
-                                                                                                               CAREER OBJECTIVE 
-
+CAREER OBJECTIVE
 I would like to pursue my interest in Computer Science and to test and expand my knowledge in this field, to the best of my ability. The bliss of working in a team, with challenging problems and acute deadlines is an area I would certainly like to explore.
 
  Experience Summary:
@@ -21,7 +20,7 @@ I would like to pursue my interest in Computer Science and to test and expand my
 •	Exposure to Database designs, workflows, architectural /system designs and coding patterns. 
 •	Good experience in refactoring code, designing API, Java & J2ee frameworks, Data Structures and Algorithms. 
 •	Worked on various java frameworks, Adobe Analytics tool and Interwoven/ HP Team site (6.7.2 and 6.5). 
-•	Possess good communication, Client handling and Problem-solving skills. 
+•	Possess good communication, Client handling and Problem-solving skills.
 
 
  Professional Experience: 
@@ -50,8 +49,8 @@ Technical Skills:
 
 PROJECT SUMMARY
 
-Company:   DBS Bank Singapore 
-Role:            Specialist Application Developer 
+Company:     DBS Bank Singapore 
+Role:        Specialist Application Developer 
 Location:    Hyderabad
 
 Project Name: Treasury API  
@@ -64,8 +63,8 @@ Project Name: Treasury API
 Technologies and tools: Java 8, spring boot, MariaDB, REST, Kafka, elastic search, Kibana, OpenShift, spring cloud, Jenkins, Jira, maven, spring cloud, swagger , Docker.
 
 
-Company:  Oracle India Pvt. Ltd. 
-Role:           Application Engineer 
+Company:     Oracle India Pvt. Ltd. 
+Role:        Application Engineer 
 Location:    Hyderabad
 
 Project Name: Oracle HCM Risk Cloud 
@@ -78,12 +77,13 @@ Project Name: Security Console
 •	The scope of the project is to redesign analytics with performance improvement for high availability environment across application, written all Code using ADF frameworks and involved in the project until its stability in the customer environment.
 
 Project Name: JOB AUTOMATION 
+
 •	The scope of the project is to redesign various jobs, their respective Excel reports, and its format with performance improvement and time constraint metrics, written all Code using ADF/ESS frameworks and involved in the project until its stability in the customer environment.
 
 Company:    Tata Consultancy Services 
-Client:           Western Union Financial Services (U.S) 
-Role:             Java Developer 
-Location:    Hyderabad
+Client:     Western Union Financial Services (U.S) 
+Role:       Java Developer 
+Location:   Hyderabad
 
 •	Studied requirement and did complete analysis of the project while designing multiple modules.
 •	Implemented complete workflow development activities.
